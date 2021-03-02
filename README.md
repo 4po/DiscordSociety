@@ -3,7 +3,7 @@
 <p align="center">
 
 
-<img align='right' src="https://media.discordapp.net/attachments/816098501632852038/816279246678523918/unknown.png?width=702&height=702" width="230">
+<img align='right' src="https://media.discordapp.net/attachments/816098501632852038/816313571532341258/rrrs.png?width=701&height=701" width="230">
 
 ## PARTIE WEB:
  - Site regroupant users / teams discord
