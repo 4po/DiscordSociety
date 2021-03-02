@@ -1,4 +1,4 @@
-<p align="center">![head.png](https://media.discordapp.net/attachments/816098501632852038/816107170764554310/unknown.png)
+<p align="center">![head.png]<img src="https://media.discordapp.net/attachments/816098501632852038/816107170764554310/unknown.png"></a>
 </p>
 <p align="center">
 
