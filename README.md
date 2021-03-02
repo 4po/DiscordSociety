@@ -18,5 +18,5 @@
  - Check la liste des challenges
 
 <p align="center">
-  <a href="https://discord.gg/apo"><img src="https://media.discordapp.net/attachments/816098501632852038/816112222815256596/unknown.png?width=1246&height=701"></a>
+  <a href="https://discord.gg/apo"><img src="https://media.discordapp.net/attachments/816098501632852038/816112222815256596/unknown.png?width=1246&height=200"></a>
 </p>
