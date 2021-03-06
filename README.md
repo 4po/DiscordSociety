@@ -19,6 +19,7 @@
 
 Liens : 
 https://discord.gg/7Wxf76a9p8
+https://discord.gg/dsociety
 
 <p align="center">
   <a href="https://discord.gg/apo"><img src="https://media.discordapp.net/attachments/816098501632852038/816112222815256596/unknown.png?width=851&height=200"></a>
