@@ -17,7 +17,7 @@
  - Check team (points, classement, badges)
  - Check la liste des challenges
 
-Liens : 
+## Liens : 
 https://discord.gg/7Wxf76a9p8
 https://discord.gg/dsociety
 - dsociety.com
